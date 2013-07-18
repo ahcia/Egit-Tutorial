@@ -15,7 +15,7 @@
 %>
    <h3>Choisissez une destination</h3>
    <form action="index.jsp" method="get">
-     Merci de choisir une ville :
+     Merci de choisir une ville ci-dessous:
       <SELECT name="ville">
          <OPTION value="">---Toutes les villes ---</OPTION>
          <%
